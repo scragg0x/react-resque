@@ -1,5 +1,5 @@
 {
-    "name": "iwai/react-resque",
+    "name": "scragg0x/react-resque",
     "type": "library",
     "description": "ReactPHP based resque worker and job in event loop implementation in PHP",
     "keywords": [ "job", "background", "redis", "resque", "react" ],
